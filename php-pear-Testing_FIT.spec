@@ -4,10 +4,10 @@
 %define		_status		beta
 %define		_pearname	Testing_FIT
 Summary:	%{_pearname} - FIT: Framework for Integrated Test
-Summary(pl):	%{_pearname} - FIT: Framework do zintegrowanych testów
+Summary(pl.UTF-8):	%{_pearname} - FIT: Framework do zintegrowanych testów
 Name:		php-pear-%{_pearname}
 Version:	0.2.1
-Release:	0.1
+Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
@@ -32,15 +32,15 @@ customers' expectations to actual results.
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
-Wiêksze programy wymagaj± wspó³pracy i komunikacji.
+%description -l pl.UTF-8
+Wi¿ksze programy wymagaj¿ wspó¿pracy i komunikacji.
 
-Fit jest narzêdziem usprawniaj±cym wspó³pracê na etpaie rozwoju
-oprogramowania. Jest szczególnie przydatny przy wspó³pracy nad
-z³o¿onymi problemami - i rozwi±zaniu ich - na wczesnym etapie rozwoju.
+Fit jest narz¿dziem usprawniaj¿cym wspó¿prac¿ na etpaie rozwoju
+oprogramowania. Jest szczególnie przydatny przy wspó¿pracy nad
+z¿o¿onymi problemami - i rozwi¿zywaniu ich - na wczesnym etapie rozwoju.
 
 Fit pozwala klientom, testerom i programistom stwierdzenie co
-oprogramowanie powinno robiæ jak równie¿ to co robi. Automatycznie
+oprogramowanie powinno robi¿ jak równie¿ to co robi. Automatycznie
 porównuje oczekiwania klientów z rzeczywistymi wynikami.
 
 Ta klasa ma w PEAR status: %{_status}.
