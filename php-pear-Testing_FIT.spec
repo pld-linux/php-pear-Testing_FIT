@@ -35,13 +35,14 @@ In PEAR status of this package is: %{_status}.
 %description -l pl.UTF-8
 Większe programy wymagają współpracy i komunikacji.
 
-Fit jest narzędziem usprawniającym współpracę na etpaie rozwoju
+Fit jest narzędziem usprawniającym współpracę na etapie rozwoju
 oprogramowania. Jest szczególnie przydatny przy współpracy nad
-złożonymi problemami - oraz rozwiązywaniu ich - na wczesnym etapie rozwoju.
+złożonymi problemami - oraz rozwiązywaniu ich - na wczesnym etapie
+rozwoju.
 
 Fit pozwala klientom, testerom i programistom stwierdzenie jaką
-funkcjonalność oprogramowanie powinno udostępniać oraz jaką udostępnia, a
-następnie porównanie otrzymanie wyników.
+funkcjonalność oprogramowanie powinno udostępniać oraz jaką
+udostępnia, a następnie porównanie otrzymanie wyników.
 
 Ta klasa ma w PEAR status: %{_status}.
 
