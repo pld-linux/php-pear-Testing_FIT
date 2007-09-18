@@ -6,12 +6,12 @@
 Summary:	%{_pearname} - FIT: Framework for Integrated Test
 Summary(pl.UTF-8):	%{_pearname} - FIT: Framework do zintegrowanych testów
 Name:		php-pear-%{_pearname}
-Version:	0.2.1
+Version:	0.2.2
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	91b59b38bab5973ecbd843e198566775
+# Source0-md5:	4778f17d031296b2ef3235745681fe4c
 URL:		http://pear.php.net/package/Testing_FIT/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
