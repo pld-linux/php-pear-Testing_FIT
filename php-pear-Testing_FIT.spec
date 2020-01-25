@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		_class		Testing
 %define		_subclass	FIT
 %define		_status		beta
